@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hi, I am wytrom
+## I am a Developer and here are the things about me!
 
-<!--
-**wytrom/wytrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Open source projects
+- 🤔 I’m looking for help with any experienced developers
+- 💬 Ask me about anything
+- 👯 I’m looking to collaborate with other developer
+- ⚡ Fun fact: I love to play video games, reading and coding!
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.facebook.com/KovacsCheats">
+  <img align="left" alt="wytrom's Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.instagram.com/akumahalls/">
+  <img align="left" alt="wytrom's Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="INDISPONIVEL">
+  <img align="left" alt="SokumHeng's Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<br/>
+
+### Languages and Tools:
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wytrom)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=wytrom&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+![Profile views](https://gpvc.arturio.dev/wytrom) 
