@@ -21,6 +21,7 @@
 <br/>
 
 ### Languages and Tools:
+# 📊 GitHub Stats:
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wytrom)](https://github.com/anuraghazra/github-readme-stats)
