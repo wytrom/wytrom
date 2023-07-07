@@ -27,3 +27,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=wytrom&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ![Profile views](https://gpvc.arturio.dev/wytrom) 
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=zRitsu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=zRitsu&icon=5&color=1)](https://visitcount.itsvg.in)
